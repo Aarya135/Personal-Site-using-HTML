@@ -1,0 +1,31 @@
+body {
+  background-color: #BFCBA8;
+}
+
+hr {
+  border-style: dotted solid;
+  border-width: 7px 0 0 0;
+  border-color: #52734D;
+  width: 10%;
+}
+
+h1{
+  color: #295939;
+}
+
+h3{
+  color: #295939;
+}
+
+.ME {
+    opacity: 0.8;
+    transition: opacity 0.55s ease-in-out;
+}
+
+.ME:hover {
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+}
+table{
+  border-spacing: 10px 0;
+}
